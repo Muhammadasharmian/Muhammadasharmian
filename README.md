@@ -1,94 +1,95 @@
-# Muhammad (Ashar) Mian
+<div align="center">
+  <img src="assets/terminal.gif" alt="Terminal Animation" width="600"/>
+</div>
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Muhammadasharmian)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ashar-mian/)
+<h1 align="center">Hi there! 👋 I'm Muhammad (Ashar) Mian</h1>
 
-**Starkville, MS**  
-📧 asharmian2004@gmail.com  
-📞 662-497-8806
-
----
-
-## 👋 About Me
-
-I’m Muhammad (Ashar) Mian, a passionate Computer Science student at Mississippi State University (Class of 2027), honored with a full-tuition scholarship and maintaining a 4.00 GPA. I’m driven by curiosity and a love for building impactful technology—especially in robotics, automation, AR/VR, and AI.
+<p align="center">
+  <a href="https://github.com/Muhammadasharmian">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Robotics+Enthusiast;AR%2FVR+Developer;AI+%26+Automation+Lover" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
-## 🎓 Education
+## 🚀 About Me
 
-**Mississippi State University**, Starkville, MS  
-_Bachelor of Science, Computer Science_  
-- GPA: **4.00**
-- **Full Tuition Scholarship** for 4 years
+I'm Muhammad (Ashar) Mian, a passionate Computer Science student at **Mississippi State University** (Class of 2027), honored with a **full-tuition scholarship** and maintaining a **4.00 GPA**. I'm driven by curiosity and a love for building impactful technology—especially in **robotics, automation, AR/VR, and AI**.
 
 ---
 
 ## 💻 Skills
 
-- **Languages:** Python, C, C++, C#, Java, JavaScript, SQL, x86 assembly, MATLAB, HTML/CSS, R
-- **Tools/Libraries:** Git, Linux, Angular, React, clang, Unity, Autodesk Revit, Pandas, Matplotlib
-- **Interests:** Robotics, Automation, AR/VR Development, Data Handling & Visualization, Machine Learning, AI, Vehicles
+<div align="center">
 
----
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-## 🛠️ Experience
+### Tools & Frameworks
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Autodesk Revit](https://img.shields.io/badge/Revit-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 
-**Undergraduate Research Assistant**  
-*MSSTATE - Building Construction Science*  
-- Developed a real-time AR application that improved workplace safety and protocol adherence, reducing incidents by ~15%
-- Integrated health monitoring sensors for real-time vital tracking, detecting health risks early
-- Engineered an AR communication server for instant supervisor instructions and safety alerts
-- Built interactive BIM-based 3D models for classroom use
+### Interests
+🤖 Robotics | ⚙️ Automation | 🥽 AR/VR Development | 📊 Data Handling & Visualization | 🧠 Machine Learning | 🤖 AI | 🚗 Vehicles
 
-**Undergraduate Research Assistant**  
-*MSSTATE - Plant and Soil Sciences*  
-- Automated data collection & processing workflows, cutting manual time by 40%
-- Developed Python scripts to analyze large datasets, reducing soil analysis time by hours per sample
-
-**Student Researcher**  
-*MSSTATE - EcoCAR Challenge Team*  
-- Implemented algorithms for self-driving vehicle systems in Python & MATLAB, improving control response by 15%
-- Led simulation/testing of perception & control algorithms for real-world accuracy
-- Coordinated integration of LiDAR, radar, and camera systems
-
-**Summer Intern**  
-*TMR Consulting Pvt. Ltd., Islamabad, Pakistan*  
-- Maintained and troubleshot client software, achieving a 95% client satisfaction rate
-- Enhanced client meeting and communication protocols for better project clarity and teamwork
-
----
-
-## 🚀 Featured Projects
-
-- **SafeConstructAR**: AR app for construction worker safety, featuring health tracking and OSHA guideline compliance.
-- **CanopyCover Calculator**: Open-source tool to calculate average plant canopy cover from user images.
-- **HackFashion AI**: Personal digital stylist using Gemini for digital wardrobe management and outfit suggestions.  
-  _🏆 Hackathon Winner @ HackUTA 7_
-
----
-
-## 🌟 Leadership & Involvement
-
-- **President**, Pakistan Student Association @ MSU
-- **Team Leader**, Mississippi State Table Tennis Team
-
----
-
-## 🌱 Fun Facts
-
-- I’m passionate about robotics, vehicles, and the intersection of AI with real-world systems.
-- When I’m not coding, you’ll find me playing table tennis or building something new!
+</div>
 
 ---
 
 ## 📫 Connect with Me
 
-- **GitHub:** [Muhammadasharmian](https://github.com/Muhammadasharmian)
-- **LinkedIn:** [muhammad-ashar-mian](https://www.linkedin.com/in/muhammad-ashar-mian/)
-- **Email:** asharmian2004@gmail.com
-- **Phone:** 662-497-8806
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ashar-mian/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muhammadasharmian)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asharmian2004@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=phone&logoColor=white)](tel:+16624978806)
+
+📧 **Email:** asharmian2004@gmail.com  
+📱 **Phone:** 662-497-8806
+
+</div>
 
 ---
 
-_“Striving to blend curiosity with creation, and turn ideas into impactful solutions.”_
+## 🌱 Fun Facts
+
+- When I'm not coding, you'll find me playing **table tennis** or building something new! 🏓
+- I believe in continuous learning and pushing the boundaries of what's possible with technology 🚀
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammadasharmian&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammadasharmian&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Muhammadasharmian&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+</div>
+
+---
+
+<div align="center">
+  <i>⭐️ From <a href="https://github.com/Muhammadasharmian">Muhammadasharmian</a></i>
+</div>
