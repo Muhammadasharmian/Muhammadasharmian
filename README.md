@@ -46,8 +46,6 @@ I'm Muhammad (Ashar) Mian, a passionate Computer Science student at **Mississipp
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 
-### Interests
-🤖 Robotics | ⚙️ Automation | 🥽 AR/VR Development | 📊 Data Handling & Visualization | 🧠 Machine Learning | 🤖 AI | 🚗 Vehicles
 
 </div>
 
