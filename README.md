@@ -2,7 +2,7 @@
   <img src="assets/terminal.gif" alt="Terminal Animation" width="600"/>
 </div>
 
-<h1 align="center">Hi there! 👋 I'm Muhammad (Ashar) Mian</h1>
+<h1 align="center">Hi there! 👋 I'm Muhammad Ashar Mian</h1>
 
 <p align="center">
   <a href="https://github.com/Muhammadasharmian">
