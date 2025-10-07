@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/Muhammadasharmian">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Robotics+Enthusiast;AR%2FVR+Developer;AI+%26+Automation+Lover" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Computer+Science+Student" alt="Typing SVG" />
   </a>
 </p>
 
