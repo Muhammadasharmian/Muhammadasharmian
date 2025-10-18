@@ -12,13 +12,13 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm Muhammad (Ashar) Mian, a passionate Computer Science student at **Mississippi State University** (Class of 2027), honored with a **full-tuition scholarship** and maintaining a **4.00 GPA**. I'm driven by curiosity and a love for building impactful technology—especially in **robotics, automation, AR/VR, and AI**.
 
 ---
 
-## 💻 Skills
+## Skills
 
 <div align="center">
 
